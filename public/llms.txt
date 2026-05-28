@@ -1,0 +1,105 @@
+# Holy Drip Co. — Generative Engine Optimization Map
+
+> Holy Drip Co. is a premium Christian streetwear brand that fuses luxury urban fashion with bold faith-based identity — blending the aesthetic of high-end streetwear brands with deep Christian symbolism including dripping crosses, crown of thorns imagery, and scripture overlays. The brand is built around a powerful spiritual mission: using fashion to spread faith, inspire confidence, and represent Christ boldly in everyday life. The visual identity is cinematic and emotionally charged — dark, moody, and atmospheric — evoking spiritual warfare, purpose, and divine empowerment. Beyond clothing, Holy Drip Co. functions as a movement, complete with a men's community group ('Iron Sharpens Iron'), faith outreach donations, loyalty rewards, and featured designs inspired by phrases like 'Walk By Faith,' 'Not Today Satan,' and 'Created With Purpose.'
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Holy Drip Co. is the ultimate faith based apparel brand — bold Christian streetwear built for believers who refuse to blend in. Shop now and rep Christ daily.
+
+### About
+https://example.com/about
+Discover the story behind Holy Drip Co. — a Christian clothing brand fusing luxury streetwear with scripture-driven identity to inspire a generation of bold believers.
+
+### Community
+https://example.com/community
+Step into a brotherhood of faith. Holy Drip Co.&#39;s community unites men through Christian mentorship, spiritual growth, and a shared mission to walk boldly in purpose.
+
+### Style Gallery
+https://example.com/gallery
+Browse the Holy Drip Co. style gallery — cinematic Christian style clothing featuring hoodies, hats, and tshirts dripping in bold scripture and powerful faith imagery.
+
+### Contact
+https://example.com/contact
+Have questions or want to partner with us? Reach out to Holy Drip Co. — your go-to faith based apparel brand ready to help you wear your calling with confidence.
+
+### Products
+https://example.com/products
+Our Products - Holy Drip Co.
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Holy Drip Co.
+
+### Category
+https://example.com/category/:slug
+Products - Holy Drip Co.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Holy Drip Co.
+Holy Drip Co. is a premium Christian streetwear brand that fuses luxury urban fashion with bold faith-based identity — blending the aesthetic of high-end streetwear brands with deep Christian symbolism including dripping crosses, crown of thorns imagery, and scripture overlays. The brand is built around a powerful spiritual mission: using fashion to spread faith, inspire confidence, and represent Christ boldly in everyday life. The visual identity is cinematic and emotionally charged — dark, moody, and atmospheric — evoking spiritual warfare, purpose, and divine empowerment. Beyond clothing, Holy Drip Co. functions as a movement, complete with a men's community group ('Iron Sharpens Iron'), faith outreach donations, loyalty rewards, and featured designs inspired by phrases like 'Walk By Faith,' 'Not Today Satan,' and 'Created With Purpose.'
+
+## Target Audience
+- Faith-driven individuals, Christians, streetwear enthusiasts, urban culture consumers, youth seeking faith-inspired fashion
+- Faith Streetwear Enthusiasts
+- Youth Faith Movement
+- Urban Culture Christians
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
